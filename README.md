@@ -53,7 +53,7 @@ The main objective of this project is:
 ---
 
 ## Project Structure
-
+```text
 smart-expense-tracker/
 ├── app.py
 ├── requirements.txt
@@ -68,7 +68,7 @@ smart-expense-tracker/
 │   └── js/
 │       └── app.js
 └── README.md
-
+```
 ---
 
 ## How the Project Works
