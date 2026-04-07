@@ -54,7 +54,7 @@ The main objective of this project is:
 
 ## Project Structure
 ```text
-smart-expense-tracker/
+smart/
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
