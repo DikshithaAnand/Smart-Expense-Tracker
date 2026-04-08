@@ -208,3 +208,10 @@ Code → GitHub → Docker → Jenkins → Running Application
 
 Smart Expense Tracker System is a simple and useful web application that helps users manage income and expenses.  
 It also demonstrates DevOps concepts using GitHub, Docker, and Jenkins.  
+
+Team Members:
+Dikshitha A
+Gangambika DV
+Srujana
+Vasudev
+
