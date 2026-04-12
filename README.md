@@ -196,12 +196,12 @@ Code → GitHub → Docker → Jenkins → Running Application
 
 ## Future Enhancements
 
-- Add login system  
-- Add database  
-- Add charts  
-- Add reports  
-- Add mobile app  
-- Deploy to cloud  
+- Implement a secure user login and authentication system.  
+- Integrate a database for efficient data storage and management.  
+- Add charts and graphs for better financial visualization.  
+- Generate detailed reports for income and expenses.  
+- Develop a mobile application for easy access on smartphones.  
+- Deploy the project to the cloud for better scalability and availability.    
 
 ---
 
