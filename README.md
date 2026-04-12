@@ -15,9 +15,10 @@ This project is also developed as a DevOps mini project using GitHub, Docker, an
 ## Project Objective
 
 The main objective of this project is:
-- to help users track their income and expenses easily
-- to calculate total income, total expense, and remaining balance
-- to demonstrate DevOps implementation using modern tools
+
+- To enable users to easily monitor their income and expenses.
+- To calculate total income, total expenses, and the remaining balance automatically.
+- To demonstrate the implementation of DevOps practices using modern tools and technologies.
 
 ---
 
