@@ -74,12 +74,12 @@ smart/
 
 ## How the Project Works
 
-User opens the Smart Expense Tracker application.  
-User enters transaction type, description, and amount.  
-Data is sent to backend.  
-Backend processes the data.  
-System calculates total income, total expense, and remaining balance.  
-Updated data is shown on the screen.
+The user opens the Smart Expense Tracker application.
+The user enters the transaction type, description, and amount.
+The entered data is sent to the backend for processing.
+The backend stores and manages the transaction details.
+The system calculates the total income, total expense, and remaining balance.
+The updated financial summary is displayed on the screen.
 
 ---
 
