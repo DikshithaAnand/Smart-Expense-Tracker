@@ -27,7 +27,10 @@ The main objective of this project is:
 - 💰 Add and manage income entries  
 - 💸 Track and record expenses  
 - 📊 View total income and expenses 
- 
+- 🧮 Automatically calculate remaining balance  
+- 📜 Access complete transaction history  
+- ❌ Delete transactions easily  
+- 🎨 Clean, simple, and intuitive user interface 
 
 ---
 
