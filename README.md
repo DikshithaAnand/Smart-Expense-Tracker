@@ -22,16 +22,12 @@ The main objective of this project is:
 
 ---
 
-## Features
+## 🚀 Features
 
-- Add Income
-- Add Expenses
-- View Total Income
-- View Total Expense
-- View Remaining Balance
-- View Transaction History
-- Delete Transactions
-- Simple and Attractive User Interface
+- 💰 Add and manage income entries  
+- 💸 Track and record expenses  
+- 📊 View total income and expenses 
+ 
 
 ---
 
