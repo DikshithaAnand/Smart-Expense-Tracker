@@ -6,8 +6,8 @@ The Smart Expense Tracker System is a simple web-based application designed to m
 
 - Record and manage income  
 - Track and monitor expenses
-- calculate remaining balance automatically
-- view transaction history
+- Automatically calculate remaining balance  
+- View detailed transaction history  
 
 This project is also developed as a DevOps mini project using GitHub, Docker, and Jenkins.
 
