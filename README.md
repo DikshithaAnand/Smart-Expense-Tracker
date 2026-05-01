@@ -2,9 +2,10 @@
 
 The Smart Expense Tracker System is a simple web-based application designed to manage personal income and expenses efficiently.
 
-It helps users to:
-- record income
-- record expenses
+### Key Features
+
+- Record and manage income  
+- Track and monitor expenses
 - calculate remaining balance automatically
 - view transaction history
 
